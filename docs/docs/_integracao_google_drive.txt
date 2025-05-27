@@ -1,0 +1,24 @@
+# Notas sobre a Integração com Google Drive
+
+Este documento detalha os passos e decisões tomadas para integrar a gestão de documentos do PortfolioHUB com o Google Drive.
+
+## Estrutura de Pastas Implementada:
+
+- Raiz do Drive:
+    - `PortfolioHUB_Projetos_2025/`
+        - `Plano_Implementacao_Desafio.docx` (este documento no Google Docs)
+        - `Projeto_E-commerce_IA/`
+            - `Descricao_Projeto_E-commerce_IA.docx`
+            - `Apresentacao_Pitch_E-commerce.pptx`
+        - `Projeto_Analise_Dados_Saude/`
+            - `Relatorio_Analise_Dados_Saude.docx`
+            - `Dashboard_Indicadores_Saude.xlsx`
+        - `Desafio_Final_Bootcamp_Material/` (onde o PDF final e outros artefatos do desafio residem)
+
+## Procedimento de Compartilhamento:
+
+Todos os documentos e pastas relevantes no Google Drive foram configurados com permissão de "Qualquer pessoa com o link pode visualizar" para garantir a acessibilidade para a avaliação do projeto. Links diretos para os principais artefatos serão incluídos no PortfolioHUB, quando aplicável.
+
+## Observações:
+
+A organização visa simular um ambiente corporativo, onde os recursos de projetos são centralizados e facilmente acessíveis para a equipe.
