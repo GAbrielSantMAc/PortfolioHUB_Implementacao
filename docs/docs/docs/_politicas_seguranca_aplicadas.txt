@@ -1,0 +1,25 @@
+# Políticas de Segurança Aplicadas no Projeto PortfolioHUB
+
+As seguintes políticas e práticas de segurança foram implementadas para proteger o acesso aos recursos do PortfolioHUB e às ferramentas integradas (Google Workspace, GitHub):
+
+## 1. Autenticação de Dois Fatores (2FA)
+
+- **Google Account:** 2FA ativada e configurada para a conta Google utilizada no projeto.
+- **GitHub Account:** 2FA ativada e configurada para a conta GitHub do projeto.
+
+## 2. Senhas Fortes e Únicas
+
+- Todas as senhas utilizadas para as contas relacionadas ao projeto (Google, GitHub) são fortes, únicas e foram geradas ou verificadas para atender a critérios de complexidade (mistura de maiúsculas, minúsculas, números e símbolos).
+
+## 3. Controle de Acesso e Permissões
+
+- **Google Drive:** Pastas e documentos sensíveis (se houver) foram configurados com permissões de acesso restrito. Documentos de compartilhamento público (para o professor) são apenas para visualização.
+- **GitHub Repositório:** O repositório está configurado como público para fins de avaliação, mas em um cenário real de equipe, seriam utilizadas permissões granulares para colaboradores.
+
+## 4. Revisão Regular de Acesso
+
+- Foi realizada uma revisão inicial das configurações de segurança das contas Google e GitHub para identificar e corrigir quaisquer vulnerabilidades.
+
+## 5. Conscientização (Self-awareness)
+
+- A importância da segurança da informação foi considerada em todas as etapas do projeto, desde a organização de arquivos até o versionamento de código.
